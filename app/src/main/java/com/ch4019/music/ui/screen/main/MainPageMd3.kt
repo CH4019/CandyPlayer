@@ -128,7 +128,7 @@ fun MainPageMd3() {
     }
 }
 
-@Preview(showBackground = true, device = Devices.TABLET)
+@Preview(showBackground = true, device = Devices.DEFAULT)
 @Composable
 fun MainShow(){
     CandyPlayerTheme {
