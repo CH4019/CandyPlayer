@@ -16,3 +16,6 @@ local.properties
 /app/release/
 /app/debug/
 /.idea/
+/hs_err_pid3296.log
+/hs_err_pid15396.log
+/replay_pid3296.log

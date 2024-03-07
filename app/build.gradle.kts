@@ -77,5 +77,8 @@ dependencies {
     //implementation(libs.window)
     implementation(libs.ui.util)
     implementation(libs.coil.compose)
-    implementation("com.google.accompanist:accompanist-permissions:0.33.1-alpha")
+    implementation("com.google.accompanist:accompanist-permissions:0.35.0-alpha")
+    implementation (libs.androidx.media3.exoplayer)
+    implementation (libs.androidx.media3.ui)
+    implementation (libs.androidx.media3.common)
 }
